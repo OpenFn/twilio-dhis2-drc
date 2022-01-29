@@ -2,7 +2,7 @@
 
 Please update this readme when you start a new project. Summarize the solutions implemented.  
 
-*Note that commits to `master` will be auto-deployed to OpenFn.org. Always work on a branch!*
+*Note that commits to `main` will be auto-deployed to OpenFn.org. Always work on a branch!*
 
 ## Getting started with the Repo
 
