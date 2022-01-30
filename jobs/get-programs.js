@@ -16,6 +16,6 @@ fn(state => {
       };
       return { programEntity };
     });
-  return { ...state, rapidProPrograms, uuids: [] };
+  return { ...state, rapidProPrograms, uuids: [], data: {}, references: [] };
 });
 
